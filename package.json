@@ -1,0 +1,28 @@
+{
+  "name": "opencode-morph-auth",
+  "version": "0.1.0",
+  "description": "OpenCode provider plugin: Morph (morphllm.com) open-weight models with an API key",
+  "type": "module",
+  "main": "./index.mjs",
+  "files": [
+    "index.mjs",
+    "README.md"
+  ],
+  "keywords": [
+    "opencode",
+    "opencode-plugin",
+    "morph",
+    "morphllm",
+    "magpie"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raiscui/opencode-morph-auth.git"
+  },
+  "homepage": "https://github.com/raiscui/opencode-morph-auth",
+  "author": "raiscui",
+  "bugs": {
+    "url": "https://github.com/raiscui/opencode-morph-auth/issues"
+  }
+}
